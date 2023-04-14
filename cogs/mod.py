@@ -1,7 +1,7 @@
 #Author: BinaryBills
 #Creation Date: February 1, 2023
 #Date Modified: February 11, 2023
-#Purpose:
+#Purpose: Provides Moderation commands for server administrators or users with specific permissions.
 import discord
 from discord.ext import commands
 from discord import app_commands

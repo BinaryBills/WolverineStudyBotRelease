@@ -10,7 +10,6 @@ from discord.ext import commands
 import platform
 from config import settings
 
-
 class __setup__(commands.Cog):
     def __init__(self,client):
         self.client = client
@@ -33,8 +32,7 @@ class __setup__(commands.Cog):
     async def ping(self, interaction: discord.Interaction):
         """Tests the latency of the bot"""
         await interaction.response.send_message(f"Pong! {round(self.client.latency * 1000)}ms")
-        
-  
+          
 async def setup(client):
     await client.add_cog(__setup__(client))
     

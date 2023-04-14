@@ -1,6 +1,6 @@
 #Author: BinaryBills
-#Creation Date: January 8, 2022
-#Date Modified: January 17, 2022
+#Creation Date: January 8, 2023
+#Date Modified: January 17, 2023
 #Purpose: WolverineStudyBot is a Discord bot designed to help University of 
 #Michigan student chatrooms by providing a simplistic moderation 
 #system, facilitating a database that students can use to archive helpful 

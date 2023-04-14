@@ -1,3 +1,8 @@
+#Author: BinaryBills
+#Creation Date: April 9, 2023
+#Date Modified: April 9, 2023
+#Purpose: This file allow users to manage and remove their own academic resources from the database. 
+
 import discord
 from discord.ext import commands
 from discord import app_commands

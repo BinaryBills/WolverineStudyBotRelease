@@ -1,6 +1,6 @@
 #Author: BinaryBills
-#Creation Date: January 15, 2022
-#Date Modified: January 18, 2022
+#Creation Date: January 15, 2023
+#Date Modified: March 14, 2023
 #Purpose: The Remind command allows users to request the bot to message them at a specified time with a specific message. This functionality will help students plan study sessions.
 
 import discord

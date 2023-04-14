@@ -1,7 +1,8 @@
 # Author: BinaryBills
-# Creation Date: December 25, 2023
-# Date Modified: March 17, 2023
-# Purpose:
+# Creation Date: December 25, 2022
+# Date Modified: April 9, 2023
+# Purpose: This file is responsible for providing the user with an input form 
+# to upload and store study resources to a database.
 
 import re
 import discord

@@ -1,3 +1,9 @@
+# Author: BinaryBills
+# Creation Date: April 1, 2023
+# Date Modified: April 9, 2023
+# Purpose: This file is responsible for helping users find and navigate academic 
+# resources within a Discord server easily.
+
 import discord
 from discord.ext import commands
 from discord import app_commands
